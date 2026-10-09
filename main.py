@@ -60,3 +60,5 @@ def buscar_aluno(aluno: str):
         return {"erro": str(e)}
     finally:
         conn.close()
+
+# comentário teste
